@@ -38,6 +38,6 @@ li a {
   background-color: #2694d8;
 }
 
-ol li {
+ol > li {
   color: #719e47;
 }

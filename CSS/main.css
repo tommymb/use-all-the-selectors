@@ -1,23 +1,23 @@
-html{
+html {
   background-color: #fdf6e3;
 }
 
-header, footer{
+header, footer {
   font-size: 1.5rem;
 }
 
-nav ul{
+nav ul {
   font-family: sans-sans-serif;
 }
 
-.logo{
+.logo {
   text-transform: uppercase;
 }
 
-.wrapper{
+.wrapper {
   background-color: #eee8d5;
 }
 
-h2{
+h2 {
   color: #93a1a1;
 }

@@ -27,7 +27,7 @@ h2 {
 }
 
 .dfn + strong {
-  color: #fff
+  color: #fff;
 }
 
 li a {
@@ -36,4 +36,8 @@ li a {
 
 [rel="external"] {
   background-color: #2694d8;
+}
+
+ol li {
+  color: #719e47;
 }

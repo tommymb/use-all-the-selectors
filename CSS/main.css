@@ -21,3 +21,19 @@ nav ul {
 h2 {
   color: #93a1a1;
 }
+
+.wrapper > .dfn {
+  background-color: #b58900;
+}
+
+.dfn + strong {
+  color: #fff
+}
+
+li a {
+  background-color: #719e07;
+}
+
+[rel="external"] {
+  background-color: #2694d8;
+}
